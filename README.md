@@ -11,7 +11,7 @@
 
 
 ---
-### Languages and Technologies
+### Stack
 <img 
     align="left"
     alt="CSS"
