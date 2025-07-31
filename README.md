@@ -62,7 +62,7 @@
 />
 <br> 
           
-### 📊 Statistic
+### Statistic
 <img
     aling="left"
     alt="GitHub Stats"
