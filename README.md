@@ -62,7 +62,6 @@
 />
 <br> 
           
-### 📊 Statistic
 ### Statistic
 <img
     aling="left"
