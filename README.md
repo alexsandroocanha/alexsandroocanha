@@ -60,7 +60,7 @@
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-plain.svg"
 />
-<br> 
+<br>
 <br>
 
 ---
@@ -82,8 +82,6 @@
 />
 
 ---
-
-### Commit
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/alexsandroocanha/alexsandroocanha/output/snake.svg" alt="Snake animation" />
