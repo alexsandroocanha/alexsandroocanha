@@ -81,6 +81,10 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&size_weight=0.5&count_weight=0.5&theme=radical"
 />
 
+---
+
+### Commit
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/alexsandroocanha/alexsandroocanha/output/snake.svg" alt="Snake animation" />
 </p>
