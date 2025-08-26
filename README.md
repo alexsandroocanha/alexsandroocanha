@@ -83,8 +83,11 @@
 
 ---
  
-<div align="left">
-  <p><b>Visitors Count</b></p>
-  <img src="https://komarev.com/ghpvc/?username=alexsandroocanha&color=blue" alt="Visitors Count" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=alexsandroocanha&color=blue" 
+       alt="Visitors Count" 
+       width="200" />
 </div>
+
+
 
