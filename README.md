@@ -82,6 +82,10 @@
 />
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alexsandroocanha/alexsandroocanha/output/snake.svg" alt="Snake animation" />
+</p>
  
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alexsandroocanha&color=blue" 
@@ -89,5 +93,5 @@
        width="200" />
 </div>
 
-
+---
 
