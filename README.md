@@ -82,7 +82,9 @@
 />
 
 ---
+ 
+<div align="left">
+  <p><b>Visitors Count</b></p>
+  <img src="https://komarev.com/ghpvc/?username=alexsandroocanha&color=blue" alt="Visitors Count" />
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alexsandroocanha/alexsandroocanha/output/snake.svg" alt="Snake animation" />
-</p>
