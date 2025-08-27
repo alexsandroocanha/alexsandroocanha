@@ -13,7 +13,7 @@
 <img 
     align="left"
     alt="CSS"
-    title="CSS"
+    title="AWS"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -21,7 +21,7 @@
 <img 
     align="left"
     alt="CSS"
-    title="CSS"
+    title="Docker"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
@@ -29,7 +29,7 @@
 <img 
     align="left"
     alt="CSS"
-    title="CSS"
+    title="Kubernetes"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"
@@ -37,7 +37,7 @@
 <img 
     align="left"
     alt="CSS"
-    title="CSS"
+    title="Terraform"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"
@@ -45,7 +45,7 @@
 <img 
     align="left"
     alt="CSS"
-    title="CSS"
+    title="Python"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
@@ -53,7 +53,7 @@
 <img 
     align="left"
     alt="CSS"
-    title="CSS"
+    title="Grafana"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-plain.svg"
