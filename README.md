@@ -26,7 +26,7 @@
   <img
       aling="left"
       alt="GitHub Stats"
-      height="190px"
+      height="195px"
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&size_weight=0.5&count_weight=0.5&theme=radical"
   />
