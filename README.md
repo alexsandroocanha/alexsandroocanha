@@ -11,22 +11,28 @@
 
 ---
 
-<img
-    aling="left"
-    alt="GitHub Stats"
-    height="200px"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=alexsandroocanha&show_icons=true&theme=radical"
-/>
-<img
-    aling="left"
-    alt="GitHub Stats"
-    height="200px"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&size_weight=0.5&count_weight=0.5&theme=radical"
-/>
 
----
+<div>
+
+
+  
+  <img
+      aling="left"
+      alt="GitHub Stats"
+      height="200px"
+      style="padding-right: 10px;"
+      src="https://github-readme-stats.vercel.app/api?username=alexsandroocanha&show_icons=true&theme=radical"
+  />
+  <img
+      aling="left"
+      alt="GitHub Stats"
+      height="190px"
+      style="padding-right: 10px;"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&size_weight=0.5&count_weight=0.5&theme=radical"
+  />
+
+  
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/alexsandroocanha/alexsandroocanha/output/snake.svg" alt="Snake animation" />
