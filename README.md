@@ -38,7 +38,7 @@
 
  <p align="center">
     <img src="https://raw.githubusercontent.com/alexsandroocanha/alexsandroocanha/output/snake.svg" alt="Snake animation" />
- </p>
+</p>
 
  
 
