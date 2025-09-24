@@ -1,7 +1,26 @@
 <h1 align="center">Welcome to my GitHub</h1>
 <p align="center"> <i>  My name is Alexsandro, and I live in Brazil. I'm 20 years old and studying Software Analysis and Development at the Federal Institute of Rondônia (IFRO). I'm passionate about technology and deeply fascinated by automation, cloud computing, infrastructure, cybersecurity, and networks. My hobbies are studying and listening to music. </i></p>
 
+<div align="center">
 
+
+  
+  <img
+      aling="left"
+      alt="GitHub Stats"
+      height="200px"
+      style="padding-right: 10px;"
+      src="https://github-readme-stats.vercel.app/api?username=alexsandroocanha&show_icons=true&theme=radical"
+  />
+  <img
+      aling="left"
+      alt="GitHub Stats"
+      height="195px"
+      style="padding-right: 10px;"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&size_weight=0.5&count_weight=0.5&theme=radical"
+  />
+
+</div>
 
 <div align="center">
  
