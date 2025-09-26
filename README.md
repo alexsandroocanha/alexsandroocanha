@@ -1,6 +1,6 @@
 <h1 align="center">
 <img 
-   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=+Wellcome+to+my+GitHub"
+   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=+Wellcome+to+my+GitHub"
 />
 </h1>
 
@@ -12,7 +12,7 @@
 <div align="center">
 <img 
    aling="center"
-   height="270"
+   height="250"
    src="https://nirzak-streak-stats.vercel.app/?user=alexsandroocanha&theme=tokyonight&hide_border=false&background=0D1117&ring=E639AF&fire=E639AF&currStreakLabel=E639AF&sideNums=58A6FF&sideLabels=FFFFFF&dates=8B949E&cache_seconds=50000" 
 />
 <img
@@ -20,14 +20,14 @@
    alt="GitHub Stats"
    height="300"
    style="padding-right: 10px;"
-   src="https://github-readme-stats.vercel.app/api?username=alexsandroocanha&show_icons=true&theme=radical&border_color=141321&cache_seconds=1700"
+   src="https://github-readme-stats.vercel.app/api?username=alexsandroocanha&show_icons=true&theme=radical&border_color=141321&cache_seconds=1500"
 />
 <img 
    aling="center"
    alt="GitHub Stats"
    height="300px"
    style="padding-right: 400px;" 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&layout=compact&theme=radical&border_color=141321&cache_seconds=1700" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&layout=compact&theme=radical&border_color=141321&cache_seconds=1500" 
 />
 
 
@@ -42,76 +42,76 @@
 <img
    aling="right"
    alt="Icon"
-   height="70px"
+   height="50px"
    style="padding-right: 500px;"    
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
    aling="right"
    alt="Icon"
-   height="70px"
+   height="50px"
    style="padding-right: 500px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
 />        
 <img 
    aling="right"
    alt="Icon"
-   height="70px"
+   height="50px"
    style="padding-right: 500px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
 <img 
    aling="right"
    alt="Icon"
-   height="70px"
+   height="50px"
    style="padding-right: 500px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"
 />
 <img 
    aling="right"
    alt="Icon"
-   height="70px"
+   height="50px"
    style="padding-right: 500px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"
 />            
 <img 
    aling="right"
    alt="Icon"
-   height="70px"
+   height="50px"
    style="padding-right: 500px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />      
 <img 
    aling="right"
    alt="Icon"
-   height="70px"
+   height="50px"
    style="padding-right: 500px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
 />
 <img 
    aling="right"
    alt="Icon"
-   height="70px"
+   height="50px"
    style="padding-right: 500px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"
 />
 <img 
    aling="right"
    alt="Icon"
-   height="70px"
+   height="50px"
    style="padding-right: 500px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
 <img 
    aling="right"
    alt="Icon"
-   height="70px"
+   height="50px"
    style="padding-right: 500px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
 />
 
 </div>
-
+<br>
 <div align="center">
 <a href="https://www.linkedin.com/in/alexsandro-ocanha-rodrigues-77149a35b/" target="_blank" rel="noopener noreferrer">
   <img
