@@ -114,21 +114,40 @@
 />
 
 </div>
-<div align="center">
 
+<div align="center">
 <a href="https://www.linkedin.com/in/alexsandro-ocanha-rodrigues-77149a35b/" target="_blank" rel="noopener noreferrer">
   <img
-    align="right"
-    alt="GitHub Stats"
+    align="center"
+    alt="Linkedin"
     height="300"
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
   />
 </a>
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexsandro.pcap/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexsandroocanha@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/alfacee.xps)
+<a href="https://www.instagram.com/alexsandro.pcap/" target="_blank" rel="noopener noreferrer">
+  <img
+    align="center"
+    alt="Instagram"
+    height="300"
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+  />
+</a>
+<a href="mailto:alexsandroocanha@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img
+    align="center"
+    alt="Gmail"
+    height="300"
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  />
+</a>
+<a href="https://discord.com/users/alfacee.xps" target="_blank" rel="noopener noreferrer">
+  <img
+    align="center"
+    alt="Discord"
+    height="300"
+    src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+  />
+</a>
 
 </div>
 <p align="center">
