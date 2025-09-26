@@ -138,14 +138,6 @@
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
   />
 </a>
-<a href="https://discord.com/channels/@me/538009457385275425" target="_blank" rel="noopener noreferrer">
-  <img
-    align="center"
-    alt="Discord"
-    height="100"
-    src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-  />
-</a>
 
 </div>
 <p align="center">
