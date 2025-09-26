@@ -11,13 +11,13 @@
 
 <div align="center">
 <img 
-   height="170"
+   height="100"
    src="https://nirzak-streak-stats.vercel.app/?user=alexsandroocanha&theme=tokyonight&hide_border=false&background=0D1117&ring=E639AF&fire=E639AF&currStreakLabel=E639AF&sideNums=58A6FF&sideLabels=FFFFFF&dates=8B949E&cache_seconds=50000" 
 />
 <img
    aling="left"
    alt="GitHub Stats"
-   height="200px"
+   height="120"
    style="padding-right: 10px;"
    src="https://github-readme-stats.vercel.app/api?username=alexsandroocanha&show_icons=true&theme=radical&border_radius=25&border_color=141321&cache_seconds=1700"
 />
