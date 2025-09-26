@@ -22,6 +22,7 @@
   <h3> <strong>Stack & Tools </strong></h3>
 </div>
 
+
  <!-- ---------------------  -->
 
 --------------------
@@ -160,9 +161,3 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/alexsandroocanha/alexsandroocanha/output/snake.svg" alt="Snake animation" />
 </p>
-
- 
-
-
-
-
