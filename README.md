@@ -34,6 +34,8 @@
 
 </div>
 
+
+
 <div align="center">
   <h2> <strong>Stack & Tools </strong></h2>
 </div>
@@ -113,6 +115,13 @@
 
 </div>
 <br>
+
+<p align="center">
+  <img 
+     src="https://github-readme-activity-graph.vercel.app/graph?username=alexsandroocanha&theme=redical&hide_border=true&cache_seconds=50000" 
+   />
+</p>
+
 <div align="center">
 <a href="https://www.linkedin.com/in/alexsandro-ocanha-rodrigues-77149a35b/" target="_blank" rel="noopener noreferrer">
   <img
@@ -140,6 +149,7 @@
 </a>
 
 </div>
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/alexsandroocanha/alexsandroocanha/output/snake.svg" alt="Snake animation" />
 </p>
