@@ -1,7 +1,7 @@
 <div align="center">
 <img 
-   height="900px"
-   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=+++WWellcome+to+my+GitHub"
+   height="100px"
+   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&pause=150&color=00F7FF&center=true&vCenter=true&width=900&height=100px&lines=+++Wellcome+to+my+GitHub"
 />
 </div>
 
@@ -13,13 +13,8 @@
   </i>
 </p>
 
-<br>
-<br>
-
  <!-- ---------------------  -->
 
- 
---------------------
  
 <div align="center">
   <h3> <strong>Stack & Tools </strong></h3>
@@ -29,7 +24,7 @@
  <!-- ---------------------  -->
 
  
-<br>
+
 
 <div align="center">
 <imgaling="right"
@@ -104,10 +99,11 @@
 
 </div>
 <br>
-
+<br>
+<br>
  <!-- ---------------------  -->
 
- -------------------------------
+
 
 <div align="center">
 <img
