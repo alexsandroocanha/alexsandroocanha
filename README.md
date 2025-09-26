@@ -17,6 +17,9 @@
 <br>
 
  <!-- ---------------------  -->
+
+ 
+--------------------
  
 <div align="center">
   <h3> <strong>Stack & Tools </strong></h3>
@@ -25,12 +28,11 @@
 
  <!-- ---------------------  -->
 
---------------------
  
 <br>
+
 <div align="center">
-<img
-   aling="right"
+<imgaling="right"
    alt="Icon"
    height="50px"
    style="padding-right: 500px;"    
