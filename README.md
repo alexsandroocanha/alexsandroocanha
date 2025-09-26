@@ -138,7 +138,7 @@
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
   />
 </a>
-<a href="https://discord.com/users/alfacee.xps" target="_blank" rel="noopener noreferrer">
+<a href="https://discord.com/channels/@me/538009457385275425" target="_blank" rel="noopener noreferrer">
   <img
     align="center"
     alt="Discord"
