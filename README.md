@@ -27,7 +27,7 @@
    alt="GitHub Stats"
    height="300px"
    style="padding-right: 400px;" 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&layout=compact&theme=radical&border_radius=25&border_color=141321&cache_seconds=1700" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&layout=compact&theme=radical&border_color=141321&cache_seconds=1700" 
 />
 
 
