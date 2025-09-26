@@ -1,27 +1,38 @@
-<h1 align="center">
+<div align="center">
 <img 
-   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=+Wellcome+to+my+GitHub"
+   height="900px"
+   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=+++WWellcome+to+my+GitHub"
 />
-</h1>
+</div>
 
  <!-- ---------------------  -->
- 
+<br>
+<br>
 <p align="center"> 
   <i>  My name is Alexsandro, and I live in Brazil. I'm 20 years old and studying Software Analysis and Development at the Federal Institute of Rondônia (IFRO). I'm passionate about technology and deeply fascinated by automation, cloud computing, infrastructure, cybersecurity, and networks. My hobbies are studying and listening to music. 
   </i>
 </p>
 
- 
-<div align="center">
-  <h2> <strong>Stack & Tools </strong></h2>
-</div>
+<br>
+<br>
 
  <!-- ---------------------  -->
+
+ 
+--------------------
+ 
+<div align="center">
+  <h3> <strong>Stack & Tools </strong></h3>
+</div>
+
+
+ <!-- ---------------------  -->
+
  
 <br>
+
 <div align="center">
-<img
-   aling="right"
+<imgaling="right"
    alt="Icon"
    height="50px"
    style="padding-right: 500px;"    
@@ -94,38 +105,9 @@
 </div>
 <br>
 
----------------------
-
-<div align="center">
-<img 
-   aling="center"
-   height="300"
-   style="padding-right: 400px;"
-   src="https://nirzak-streak-stats.vercel.app/?user=alexsandroocanha&theme=tokyonight&hide_border=false&background=0D1117&ring=E639AF&fire=E639AF&currStreakLabel=E639AF&sideNums=58A6FF&sideLabels=FFFFFF&dates=8B949E&cache_seconds=50000" 
-/>
-<img
-   aling="center"
-   alt="GitHub Stats"
-   height="200"
-   style="padding-right: 10px;"
-   src="https://github-readme-stats.vercel.app/api?username=alexsandroocanha&show_icons=true&theme=radical&border_color=141321&cache_seconds=1500"
-/>
-<img 
-   aling="center"
-   alt="GitHub Stats"
-   height="200px"
-   style="padding-right: 400px;" 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&layout=compact&theme=radical&border_color=141321&cache_seconds=1500" 
-/>
-
-
-</div>
-
-
-
  <!-- ---------------------  -->
 
- <!-- ---------------------  -->
+ -------------------------------
 
 <div align="center">
 <img
@@ -145,6 +127,8 @@
 
 
 </div>
+
+<br>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/alexsandro-ocanha-rodrigues-77149a35b/" target="_blank" rel="noopener noreferrer">
@@ -174,6 +158,8 @@
 
 </div>
 
+<br>
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/alexsandroocanha/alexsandroocanha/output/snake.svg" alt="Snake animation" />
-</p>****
+</p>
