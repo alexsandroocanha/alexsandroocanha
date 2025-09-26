@@ -11,16 +11,25 @@
 
 <div align="center">
 <img 
+   aling="center"
    height="270"
    src="https://nirzak-streak-stats.vercel.app/?user=alexsandroocanha&theme=tokyonight&hide_border=false&background=0D1117&ring=E639AF&fire=E639AF&currStreakLabel=E639AF&sideNums=58A6FF&sideLabels=FFFFFF&dates=8B949E&cache_seconds=50000" 
 />
 <img
-   aling="left"
+   aling="center"
    alt="GitHub Stats"
    height="300"
    style="padding-right: 10px;"
-   src="https://github-readme-stats.vercel.app/api?username=alexsandroocanha&show_icons=true&theme=radical&border_radius=25&border_color=141321&cache_seconds=1700"
+   src="https://github-readme-stats.vercel.app/api?username=alexsandroocanha&show_icons=true&theme=radical&border_color=141321&cache_seconds=1700"
 />
+<img 
+   aling="center"
+   alt="GitHub Stats"
+   height="300px"
+   style="padding-right: 400px;" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&layout=compact&theme=radical&border_radius=25&border_color=141321&cache_seconds=1700" 
+/>
+
 
 </div>
 
@@ -99,18 +108,6 @@
    height="70px"
    style="padding-right: 500px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
-/>
-
-</div>
-
-
-<div align="center">
-<img 
-   aling="right"
-   alt="GitHub Stats"
-   height="300px"
-   style="padding-right: 400px;" 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&layout=compact&theme=radical&border_radius=25&border_color=141321&cache_seconds=1700" 
 />
 
 </div>
