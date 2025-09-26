@@ -11,34 +11,6 @@
   </i>
 </p>
 
-<div align="center">
-<img 
-   aling="center"
-   height="300"
-   style="padding-right: 400px;"
-   src="https://nirzak-streak-stats.vercel.app/?user=alexsandroocanha&theme=tokyonight&hide_border=false&background=0D1117&ring=E639AF&fire=E639AF&currStreakLabel=E639AF&sideNums=58A6FF&sideLabels=FFFFFF&dates=8B949E&cache_seconds=50000" 
-/>
-<img
-   aling="center"
-   alt="GitHub Stats"
-   height="200"
-   style="padding-right: 10px;"
-   src="https://github-readme-stats.vercel.app/api?username=alexsandroocanha&show_icons=true&theme=radical&border_color=141321&cache_seconds=1500"
-/>
-<img 
-   aling="center"
-   alt="GitHub Stats"
-   height="200px"
-   style="padding-right: 400px;" 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&layout=compact&theme=radical&border_color=141321&cache_seconds=1500" 
-/>
-
-
-</div>
-
-
-
- <!-- ---------------------  -->
  
 <div align="center">
   <h2> <strong>Stack & Tools </strong></h2>
@@ -122,11 +94,37 @@
 </div>
 <br>
 
-<p align="center">
-  <img 
-     src="https://github-readme-activity-graph.vercel.app/graph?username=alexsandroocanha&theme=redical&hide_border=true&cache_seconds=50000" 
-   />
-</p>
+---------------------
+
+<div align="center">
+<img 
+   aling="center"
+   height="300"
+   style="padding-right: 400px;"
+   src="https://nirzak-streak-stats.vercel.app/?user=alexsandroocanha&theme=tokyonight&hide_border=false&background=0D1117&ring=E639AF&fire=E639AF&currStreakLabel=E639AF&sideNums=58A6FF&sideLabels=FFFFFF&dates=8B949E&cache_seconds=50000" 
+/>
+<img
+   aling="center"
+   alt="GitHub Stats"
+   height="200"
+   style="padding-right: 10px;"
+   src="https://github-readme-stats.vercel.app/api?username=alexsandroocanha&show_icons=true&theme=radical&border_color=141321&cache_seconds=1500"
+/>
+<img 
+   aling="center"
+   alt="GitHub Stats"
+   height="200px"
+   style="padding-right: 400px;" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&layout=compact&theme=radical&border_color=141321&cache_seconds=1500" 
+/>
+
+
+</div>
+
+
+
+ <!-- ---------------------  -->
+
  <!-- ---------------------  -->
 
 <div align="center">
