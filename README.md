@@ -23,11 +23,8 @@
 
  <!-- ---------------------  -->
 
- 
-
-
 <div align="center">
-<imgaling="right"
+<img aling="right"
    alt="Icon"
    height="50px"
    style="padding-right: 500px;"    
@@ -67,7 +64,21 @@
    height="50px"
    style="padding-right: 500px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>      
+/>
+<img 
+   aling="right"
+   alt="Icon"
+   height="50px"
+   style="padding-right: 500px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"
+/>   
+<img 
+   aling="right"
+   alt="Icon"
+   height="50px"
+   style="padding-right: 500px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>   
 <img 
    aling="right"
    alt="Icon"
