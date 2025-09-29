@@ -21,7 +21,7 @@
 
  <!-- ---------------------  -->
  <div align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,go,kubernetes,linux,vscode,vim" />
   </a>
  </div>
