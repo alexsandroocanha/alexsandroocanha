@@ -20,93 +20,11 @@
 
 
  <!-- ---------------------  -->
-
-<div align="center">
-<img aling="right"
-   alt="Icon"
-   height="50px"
-   style="padding-right: 500px;"    
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-   aling="right"
-   alt="Icon"
-   height="50px"
-   style="padding-right: 500px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
-/>        
-<img 
-   aling="right"
-   alt="Icon"
-   height="50px"
-   style="padding-right: 500px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-/>
-<img 
-   aling="right"
-   alt="Icon"
-   height="50px"
-   style="padding-right: 500px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"
-/>
-<img 
-   aling="right"
-   alt="Icon"
-   height="50px"
-   style="padding-right: 500px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"
-/>            
-<img 
-   aling="right"
-   alt="Icon"
-   height="50px"
-   style="padding-right: 500px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<img 
-   aling="right"
-   alt="Icon"
-   height="50px"
-   style="padding-right: 500px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"
-/>   
-<img 
-   aling="right"
-   alt="Icon"
-   height="50px"
-   style="padding-right: 500px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>   
-<img 
-   aling="right"
-   alt="Icon"
-   height="50px"
-   style="padding-right: 500px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-/>
-<img 
-   aling="right"
-   alt="Icon"
-   height="50px"
-   style="padding-right: 500px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"
-/>
-<img 
-   aling="right"
-   alt="Icon"
-   height="50px"
-   style="padding-right: 500px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-/>
-<img 
-   aling="right"
-   alt="Icon"
-   height="50px"
-   style="padding-right: 500px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
-/>
-
-</div>
+ <div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,go,kubernetes,linux,vscode,vim" />
+  </a>
+ </div>
 <br>
 <br>
 <br>
