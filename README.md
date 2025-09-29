@@ -14,9 +14,9 @@
  <!-- ---------------------  -->
 
  
-<p align="center">
+<div align="center">
   <h3> <strong>Stack & Tools </strong></h3>
-</p>
+</div>
 
 
  <!-- ---------------------  -->
