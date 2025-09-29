@@ -6,8 +6,6 @@
 </div>
 
  <!-- ---------------------  -->
-<br>
-<br>
 <p align="center"> 
   <i>  My name is Alexsandro, and I live in Brazil. I'm 20 years old and studying Software Analysis and Development at the Federal Institute of Rondônia (IFRO). I'm passionate about technology and deeply fascinated by automation, cloud computing, infrastructure, cybersecurity, and networks. My hobbies are studying and listening to music. 
   </i>
