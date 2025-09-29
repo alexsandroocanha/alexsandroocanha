@@ -38,14 +38,14 @@
    alt="GitHub Stats"
    height="200"
    style="padding-right: 10px;"
-   src="https://github-readme-stats.vercel.app/api?username=alexsandroocanha&show_icons=true&theme=radical&border_color=141321&cache_seconds=1500"
+   src="https://github-readme-stats.vercel.app/api?username=alexsandroocanha&bg_color=010409&show_icons=true&theme=radical&border_color=010409&cache_seconds=1500"
 />
 <img 
    aling="center"
    alt="GitHub Stats"
    height="200px"
    style="padding-right: 400px;" 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&layout=compact&theme=radical&border_color=141321&cache_seconds=1500" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&bg_color=010409&layout=compact&theme=radical&border_color=010409&cache_seconds=1500" 
 />
 
 
