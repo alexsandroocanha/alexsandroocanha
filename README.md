@@ -14,17 +14,15 @@
  <!-- ---------------------  -->
 
  
-<div align="center">
+<p align="center">
   <h3> <strong>Stack & Tools </strong></h3>
-</div>
+</p>
 
 
  <!-- ---------------------  -->
- <div align="center">
-  <a>
+ <p align="center">
     <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,go,kubernetes,linux,vscode,vim" />
-  </a>
- </div>
+ </p>
 <br>
 <br>
 <br>
@@ -32,24 +30,22 @@
 
 
 
-<div align="center">
+<p align="center">
 <img
-   aling="center"
+   align="center"
    alt="GitHub Stats"
    height="200"
-   style="padding-right: 10px;"
    src="https://github-readme-stats.vercel.app/api?username=alexsandroocanha&bg_color=010409&show_icons=true&theme=radical&border_color=010409&cache_seconds=1500"
+   style="vertical-align: top;" 
 />
 <img 
-   aling="center"
+   align="center"
    alt="GitHub Stats"
    height="200px"
-   style="padding-right: 400px;" 
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&bg_color=010409&layout=compact&theme=radical&border_color=010409&cache_seconds=1500" 
+   style="vertical-align: top;" 
 />
-
-
-</div>
+</p>
 
 <br>
 
