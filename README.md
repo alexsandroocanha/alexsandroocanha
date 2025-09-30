@@ -24,8 +24,7 @@
     <img src="https://skillicons.dev/icons?i=aws,c,docker,git,githubactions,go,kubernetes,linux,vscode,vim" />
  </p>
 <br>
-<br>
-<br>
+
  <!-- ---------------------  -->
 
 
@@ -79,6 +78,6 @@
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://raw.githubusercontent.com/alexsandroocanha/alexsandroocanha/output/snake.svg" alt="Snake animation" />
-</p>
+</p> -->
