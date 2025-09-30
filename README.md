@@ -21,7 +21,7 @@
 
  <!-- ---------------------  -->
  <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,c,docker,git,githubactions,go,kubernetes,linux,vim" />
+    <img src="https://skillicons.dev/icons?i=aws,c,docker,git,githubactions,go,kubernetes,linux,py,vim" />
  </p>
 <br>
 
