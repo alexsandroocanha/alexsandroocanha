@@ -21,7 +21,7 @@
 
  <!-- ---------------------  -->
  <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,terraform,linux,docker,kubernetes,git,githubactions,py,go,c,vim" />
+    <img src="https://skillicons.dev/icons?i=aws,terraform,linux,docker,kubernetes,git,githubactions,py,go,c" />
  </p>
 <br>
 
