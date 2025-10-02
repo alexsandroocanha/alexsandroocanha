@@ -34,14 +34,14 @@
    align="center"
    alt="GitHub Stats"
    height="200px"
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&bg_color=010409&layout=compact&theme=radical&border_color=010409&cache_seconds=1500" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&bg_color=010409&layout=compact&theme=radical&border_color=010409&cache_seconds=10" 
    valign="top"
 />
 <img
    align="center"
    alt="GitHub Stats"
    height="200"
-   src="https://github-readme-stats.vercel.app/api?username=alexsandroocanha&bg_color=010409&show_icons=true&theme=radical&border_color=010409&cache_seconds=1500"
+   src="https://github-readme-stats.vercel.app/api?username=alexsandroocanha&bg_color=010409&show_icons=true&theme=radical&border_color=010409&cache_seconds=10"
    valign="top"
 />
 </p>
