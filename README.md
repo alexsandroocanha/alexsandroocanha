@@ -40,7 +40,7 @@
 <img 
    align="center"
    alt="GitHub Stats"
-   height="200px"
+   height="195px"
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&bg_color=010409&theme=radical&border_color=010409&cache_seconds=10" 
    valign="top"
 />
