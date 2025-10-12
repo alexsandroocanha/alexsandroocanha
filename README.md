@@ -21,8 +21,15 @@
 
  <!-- ---------------------  -->
  <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,terraform,linux,docker,kubernetes,git,githubactions,py,go,cpp" />
+    <img 
+       src="https://skillicons.dev/icons?i=aws,terraform,linux,docker,kubernetes,git,githubactions,py,go,cpp" />
  </p>
+<p align="center">
+   <img 
+      height="60px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" 
+      />
+</p>
 <br>
 
  <!-- ---------------------  -->
