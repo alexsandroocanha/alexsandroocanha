@@ -28,7 +28,6 @@
     <a href="..."><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"></a>
     <a href="..."><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" alt="GitHub Actions"></a>
     <a href="..."><img src="https://img.shields.io/badge/Argo%20CD-F36D00?logo=argo&logoColor=white&style=for-the-badge" alt="Argo CD"></a>
-    <br>
     <a href="..."><img src="https://img.shields.io/badge/Shell_Script-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="Shell Script"></a>
     <a href="..."><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"></a>
     <a href="..."><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="Golang"></a>
