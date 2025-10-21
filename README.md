@@ -16,7 +16,7 @@
 
  
 <div align="center">
-  <h3><strong>Stack &amp; Tools</strong></h3>
+  <h3><strong>Stack &amp; Ferramentas</strong></h3>
 
   <p>
     <a href="..."><img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS"></a>
