@@ -22,7 +22,7 @@
  <!-- ---------------------  -->
  <p align="center">
     <img 
-       src="https://skillicons.dev/icons?&perline=6&i=aws,terraform,linux,docker,kubernetes,git,githubactions,prometheus,grafana,py,go,cpp"
+       src="https://skillicons.dev/icons?&perline=7&i=aws,terraform,linux,docker,kubernetes,git,githubactions,prometheus,grafana,py,go,cpp"
     />
  </p>
 <p align="center">
