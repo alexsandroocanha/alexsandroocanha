@@ -72,14 +72,7 @@
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
   />
 </a>
-<a href="https://www.instagram.com/alexsandro.pcap/" target="_blank" rel="noopener noreferrer">
-  <img
-    align="center"
-    alt="Instagram"
-    height="100"
-    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-  />
-</a>
+
 <a href="mailto:alexsandroocanha@gmail.com" target="_blank" rel="noopener noreferrer">
   <img
     align="center"
