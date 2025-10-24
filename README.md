@@ -3,7 +3,8 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=900&lines=Infra+como+c%C3%B3digo+%7C+Kubernetes+%7C+Observabilidade." alt="Typing Animation" />
 </div>
-
+<br>
+<br>
 <table>
 <tr>
 <td width="60%" valign="top">
