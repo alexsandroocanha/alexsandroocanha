@@ -8,20 +8,13 @@
 <tr>
 <td width="60%" valign="top">
 
-##  Sobre Mim
+## Sobre Mim
 
-Me chamo Alexsandro, tenho 20 anos e curso Análise e Desenvolvimento de Sistemas no IFRO. Gosto de transformar ideias em infraestrutura automatizada: IaC, Kubernetes, CI/CD, observabilidade, segurança e redes em ambientes cloud.
+Opa, me chamo Alexsandro, tenho 20 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** `(IFRO)`. Trabalho com `DevOps` e curto automatizar processos. Ultimamente estou engajado em aprender novas `tecnologias`, e descobrir novos hobby's.
 
 ### Formação Acadêmica
 -  **Barchalerado em Analise e Desenvolvimento de Sistemas** - IFRO campus Ariquemes
 <br>
-
-
-### Experiência Profissional
--  **Estagiário DevSecOps** - Compass UOL
-    -  Desenvolvimento de pipelines CI/CD seguros
-    -  Automação de infraestrutura em nuvem
-    -  Implementação de práticas de segurança
 <br>
 
 
@@ -48,7 +41,7 @@ Me chamo Alexsandro, tenho 20 anos e curso Análise e Desenvolvimento de Sistema
 ---
 
 <div align="center">
-<h2><strong>Stack &amp; Ferramentas</strong></h2>
+<h3><strong>Stack &amp; Ferramentas</strong></h3>
 <p>
     <a href="..."><img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS"></a>
     <a href="..."><img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=for-the-badge" alt="Terraform"></a>
