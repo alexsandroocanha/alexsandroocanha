@@ -25,7 +25,6 @@ Opa, me chamo Alexsandro, tenho 20 anos e sou estudante de **Análise e Desenvol
 <td width="40%" valign="top" align="center">
 
 <div align="center">
-    <h2><strong>Estatisticas</strong></h2>
     <img 
     align="center"
     alt="GitHub Stats"
