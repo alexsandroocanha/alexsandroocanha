@@ -18,21 +18,57 @@ Opa, me chamo Alexsandro, tenho 20 anos e sou estudante de **Análise e Desenvol
 ### Formação Acadêmica
 -  **Barchalerado em Analise e Desenvolvimento de Sistemas** - IFRO campus Ariquemes
 <br>
-<br>
 
+```golang
+func main(){
+    p := Pessoa{
+        Nome: "Alexsandro",
+        Idade: 20,
+        Trabalho: "DevSecOps",
+        Faculdade: Faculdade{
+            Nome: "IFRO",
+            Curso: "ADS",
+            Periodo: 4,
+            Turno: "Noturno",
+        }
+    }
+}
+```
 
 </td>
 <td width="40%" valign="top" align="center">
 
 <div align="center">
-    <img 
+
+## Estatisticas
+
+   <img 
     align="center"
     alt="GitHub Stats"
     height="450px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&bg_color=010409&theme=radical&border_color=010409&layout=donut-vertical&cache_seconds=10" 
     valign="top"
-    />
-    <br>
+   />
+   <br>
+
+**Redes para Contato**
+    
+   <a href="https://www.linkedin.com/in/alexsandro-ocanha-rodrigues-77149a35b/" target="_blank" rel="noopener noreferrer">
+   <img
+       align="center"
+       alt="Linkedin"
+       height="100"
+       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+   />
+   </a>
+   <a href="mailto:alexsandroocanha@gmail.com" target="_blank" rel="noopener noreferrer">
+   <img
+       align="center"
+       alt="Gmail"
+       height="100"
+       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+   />
+   </a>
 </div>
 </p>
 
@@ -60,7 +96,6 @@ Opa, me chamo Alexsandro, tenho 20 anos e sou estudante de **Análise e Desenvol
     <a href="..."><img src="https://img.shields.io/badge/Shell_Script-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="Shell Script"></a>
     <a href="..."><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"></a>
     <a href="..."><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="Golang"></a>
-    <a href="..."><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++"></a>
     <br>
     <a href="..."><img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge" alt="Prometheus"></a>
     <a href="..."><img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge" alt="Grafana"></a>
@@ -69,26 +104,6 @@ Opa, me chamo Alexsandro, tenho 20 anos e sou estudante de **Análise e Desenvol
 
 ---
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/alexsandro-ocanha-rodrigues-77149a35b/" target="_blank" rel="noopener noreferrer">
-  <img
-    align="center"
-    alt="Linkedin"
-    height="100"
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
-</a>
-<a href="mailto:alexsandroocanha@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img
-    align="center"
-    alt="Gmail"
-    height="100"
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-  />
-</a>
-
-</div>
 
 
 <div align="center">
