@@ -48,18 +48,21 @@ Opa, me chamo Alexsandro, tenho 20 anos e sou estudante de **Análise e Desenvol
 <p>
     <a href="..."><img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS"></a>
     <a href="..."><img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=for-the-badge" alt="Terraform"></a>
+    <br>
     <a href="..."><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"></a>
     <a href="..."><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" alt="Kubernetes"></a>
     <br>
     <a href="..."><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux"></a>
     <a href="..."><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"></a>
+    <br>
     <a href="..."><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" alt="GitHub Actions"></a>
     <a href="..."><img src="https://img.shields.io/badge/Argo%20CD-F36D00?logo=argo&logoColor=white&style=for-the-badge" alt="Argo CD"></a>
+    <br>
     <a href="..."><img src="https://img.shields.io/badge/Shell_Script-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="Shell Script"></a>
     <a href="..."><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"></a>
-    <br>
     <a href="..."><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="Golang"></a>
     <a href="..."><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++"></a>
+    <br>
     <a href="..."><img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge" alt="Prometheus"></a>
     <a href="..."><img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge" alt="Grafana"></a>
   </p>
@@ -88,7 +91,7 @@ Opa, me chamo Alexsandro, tenho 20 anos e sou estudante de **Análise e Desenvol
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=footer"/>
-</div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
+</div>
