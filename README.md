@@ -1,8 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Alexsandro%20Ocanha%20Rodrigues&fontSize=45&fontColor=fff&reversal=true&desc=DevOps%20Engineer%20Jr%20%7C%20SRE&descAlignY=55&descSize=18&descSize=50&descAlignY=100&descAlign=0&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&&descAlignY=55&descSize=18&descSize=50&descAlignY=100&descAlign=0&fontAlignY=35"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=900&lines=Infra+como+c%C3%B3digo+%7C+Kubernetes+%7C+Observabilidade." alt="Typing Animation" />
-</div>
+<p align="center">
+  <h1>Alexsandro Ocanha Rodrigues</h1> 
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&center=true&vCenter=true&width=900&lines=Infra+como+C%C3%B3digo+%7C+Kubernetes+%7C+Observabilidade;DevOps%2FCloud+%E2%80%94+Terraform%2C+AWS%2C+Docker%2C+Argo+CD" alt="headline" />
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/alexsandroocanha">GitHub</a> •
+  <a href="https://www.linkedin.com/in/alexsandroocanharodrigues">LinkedIn</a> •
+  <a href="mailto:alexsandroocanha@outlook.com">E-mail</a>
+</p>
+
+
 <br>
 <br>
 <table>
@@ -46,25 +60,6 @@ func main(){
     valign="top"
    />
    <br>
-
-**Redes para Contato**
-    
-   <a href="https://www.linkedin.com/in/alexsandro-ocanha-rodrigues-77149a35b/" target="_blank" rel="noopener noreferrer">
-   <img
-       align="center"
-       alt="Linkedin"
-       height="100"
-       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-   />
-   </a>
-   <a href="mailto:alexsandroocanha@gmail.com" target="_blank" rel="noopener noreferrer">
-   <img
-       align="center"
-       alt="Gmail"
-       height="100"
-       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-   />
-   </a>
 </div>
 </p>
 
