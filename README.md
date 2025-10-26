@@ -15,10 +15,6 @@
 
 Opa, me chamo Alexsandro, tenho 20 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** `(IFRO)`. Trabalho com `DevOps` e curto automatizar processos. Ultimamente estou engajado em aprender novas `tecnologias`, e descobrir novos hobby's.
 
-### Formação Acadêmica
--  **Barchalerado em Analise e Desenvolvimento de Sistemas** - IFRO campus Ariquemes
-<br>
-
 ```golang
 func main(){
     p := Pessoa{
