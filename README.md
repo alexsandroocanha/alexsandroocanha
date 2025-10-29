@@ -94,7 +94,6 @@ func main(){
     <br>
     <a href="..."><img src="https://img.shields.io/badge/Shell_Script-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="Shell Script"></a>
     <a href="..."><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"></a>
-    <a href="..."><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="Golang"></a>
     <br>
     <a href="..."><img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge" alt="Prometheus"></a>
     <a href="..."><img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge" alt="Grafana"></a>
