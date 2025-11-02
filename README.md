@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Alexsandro%20Ocanha%20Rodrigues&fontSize=45&fontColor=fff&reversal=true&desc=DevOps%20Engineer20%7C%20SRE&descAlignY=55&descSize=18&descSize=50&descAlignY=100&descAlign=0&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Alexsandro%20Ocanha%20Rodrigues&fontSize=45&fontColor=fff&reversal=true&desc=DevOps%20Engineer%20%7C%20SRE&descAlignY=55&descSize=18&descSize=50&descAlignY=100&descAlign=0&fontAlignY=35"/>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=900&lines=Infra+como+c%C3%B3digo+%7C+Kubernetes+%7C+Observabilidade." alt="Typing Animation" />
 </div>
