@@ -93,7 +93,9 @@ func main(){
     <a href="..."><img src="https://img.shields.io/badge/Argo%20CD-F36D00?logo=argo&logoColor=white&style=for-the-badge" alt="Argo CD"></a>
     <br>
     <a href="..."><img src="https://img.shields.io/badge/Shell_Script-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="Shell Script"></a>
-    <a href="..."><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"></a>
+    <a href="..."><img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" alt="C"></a>
+    <a href="..."><img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" alt="C#"></a>
+    <a href="..."><img src="https://img.shields.io/badge/Golang-2496ED?logo=go&logoColor=white&style=for-the-badge" alt="Golang"></a>
     <br>
     <a href="..."><img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge" alt="Prometheus"></a>
     <a href="..."><img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge" alt="Grafana"></a>
