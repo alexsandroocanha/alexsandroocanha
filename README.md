@@ -19,7 +19,7 @@ Hi, my name is `Alexsandro`. I'm 20 years old and passionate about `technology`,
 func main(){
     p := People{
         Name: "Alexsandro",
-        Old: 20,
+        Age: 20,
         Work: "DevSecOps",
         Faculty: Faculty{
             Name: "IFRO",
