@@ -10,22 +10,21 @@
 <td width="60%" valign="top">
 
 <div align="center">
-    <h2><strong>Sobre mim</strong></h2>
+    <h2><strong>About me</strong></h2>
 </div>
 
-Opa, me chamo Alexsandro, tenho 20 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** `(IFRO)`. Trabalho com `DevOps` e curto automatizar processos. Ultimamente estou engajado em aprender novas `tecnologias`, e descobrir novos hobby's.
+Hi, my name is `Alexsandro`, I'm 20 years old and I'm passionate about `technology`.
 
 ```golang
 func main(){
-    p := Pessoa{
-        Nome: "Alexsandro",
-        Idade: 20,
-        Trabalho: "DevSecOps",
-        Faculdade: Faculdade{
-            Nome: "IFRO",
-            Curso: "ADS",
-            Periodo: 4,
-            Turno: "Noturno",
+    p := People{
+        Name: "Alexsandro",
+        Old: 20,
+        Work: "DevSecOps",
+        Faculty: Faculty{
+            Name: "IFRO",
+            Course: "ADS",
+            Period: 4,
         }
     }
 }
@@ -36,7 +35,7 @@ func main(){
 
 <div align="center">
 
-## Estatisticas
+## Statistics
 
    <img 
     align="center"
@@ -57,7 +56,7 @@ func main(){
 ---
 
 <div align="center">
-<h3><strong>Stack &amp; Ferramentas</strong></h3>
+<h3><strong>Stack &amp; Tools</strong></h3>
 <p>
     <a href="..."><img src="https://skillicons.dev/icons?i=aws,terraform,docker,k8s,linux,git,githubactions,bash,go,c,cs,grafana,prometheus&perline=7" alt="AWS"></a>
 </p>
