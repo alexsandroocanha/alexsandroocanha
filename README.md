@@ -13,7 +13,7 @@
     <h2><strong>About me</strong></h2>
 </div>
 
-Hi, my name is `Alexsandro`, I'm 20 years old and I'm passionate about `technology`.
+Hi, my name is `Alexsandro`. I'm 20 years old and passionate about `technology`, especially `Backend Development` and `DevOps`.
 
 ```golang
 func main(){
