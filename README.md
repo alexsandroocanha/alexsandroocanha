@@ -58,7 +58,7 @@ func main(){
 <div align="center">
 <h3><strong>Stack &amp; Tools</strong></h3>
 <p>
-    <a href="..."><img src="https://skillicons.dev/icons?i=aws,terraform,docker,k8s,linux,git,githubactions,bash,go,c,cs,dotnet,grafana,prometheus&perline=7" alt="AWS"></a>
+    <a href="..."><img src="https://skillicons.dev/icons?i=aws,terraform,docker,k8s,linux,git,githubactions,bash,go,cs,dotnet,grafana,prometheus&perline=7" alt="AWS"></a>
 </p>
 </div>
 
