@@ -29,30 +29,6 @@ func main(){
 ```
 
 </td>
-<td width="40%" valign="top" align="center">
-
-<div align="center">
-
-## Stack &amp; Tools
-
-<p>
-        <a href="..."><img src="https://skillicons.dev/icons?i=aws,azure,gcp&perline=7" alt="AWS"></a>
-</p>
-<p>
-        <a href="..."><img src="https://skillicons.dev/icons?i=git,githubactions,jenkins,gitlab&perline=7" alt="AWS"></a>
-    </p>
-    <p>
-        <a href="..."><img src="https://skillicons.dev/icons?i=terraform,docker,kubernetes&perline=7" alt="AWS"></a>
-    </p>
-    <p>
-        <a href="..."><img src="https://skillicons.dev/icons?i=bash,python,go,rust&perline=7" alt="AWS"></a>
-    </p>
-    <p>
-        <a href="..."><img src="https://skillicons.dev/icons?i=grafana,prometheus&perline=7" alt="AWS"></a>
-    </p>
-
-<br>
-
 </div></td>
 </table>
 
