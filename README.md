@@ -1,10 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Alexsandro%20Ocanha%20Rodrigues&fontSize=45&fontColor=fff&reversal=true&desc=DevOps%20Engineer%20%7C%20SRE&descAlignY=55&descSize=18&descSize=50&descAlignY=100&descAlign=0&fontAlignY=35"/>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=900&lines=Infra+como+c%C3%B3digo+%7C+Kubernetes+%7C+Observabilidade." alt="Typing Animation" />
 </div>
-<br>
-<br>
+
 <table>
 <tr>
 <td width="60%" valign="top">
@@ -13,24 +10,15 @@
     <h2><strong>About me</strong></h2>
 </div>
 
-Hi, my name is `Alexsandro`. I'm 20 years old and passionate about `technology`, especially `Backend Development` and `DevOps`.
+Hi! My name is `Alexsandro` and i am a `DevOps Engineer` and `Infrastructure Engineer`. I really enjoy the field of Computer Networks, and i intend to get certified in `Cisco` equipament.
 
-```golang
-func main(){
-    p := People{
-        Name: "Alexsandro",
-        Age: 20,
-        Work: "DevSecOps",
-        Faculty: Faculty{
-            Name: "IFRO",
-            Course: "ADS",
-            Period: 4,
-        }
-    }
-}
-```
+
+
 
 </td>
+
+
+
 <td width="40%" valign="top" align="center">
 
 <div align="center">
@@ -53,16 +41,32 @@ func main(){
 </tr>
 </table>
 
----
-
 <div align="center">
-<h3><strong>Stack &amp; Tools</strong></h3>
-<p>
-    <a href="..."><img src="https://skillicons.dev/icons?i=aws,terraform,docker,k8s,linux,git,githubactions,bash,go,c,cs,dotnet,grafana,prometheus&perline=7" alt="AWS"></a>
+
+
+<p align="center">
+  <a href="mailto:alexsandroocanha@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
+  </a>
+  <a href="https://www.linkedin.com/in/alexsandroocanharodrigues">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
+  </a>
+
+
 </p>
 </div>
 
 ---
+
+<div align="center">
+<h3><strong>Stack</h3>
+<p>
+    <a href="..."><img src="https://skillicons.dev/icons?i=python,bash,go,c,cpp&perline=7" alt="AWS"></a>
+</p>
+</div>
+
+
+
 
 
 
