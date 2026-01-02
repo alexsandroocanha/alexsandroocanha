@@ -10,7 +10,7 @@
     <h2><strong>About me</strong></h2>
 </div>
 
-Hi! My name is `Alexsandro` and i am a `DevOps Engineer` and `Infrastructure Engineer`. I really enjoy the field of Computer Networks, and i intend to get certified in `Cisco` equipament.
+Hi! My name is `Alexsandro`. I'm just a technology enthusiast. I love working with `network infrastructure`, servers, and `cloud infrastructure`. I am currently pursuing the `CCNP DC` certification, in addition to improving my English.
 
 
 
