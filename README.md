@@ -29,7 +29,7 @@ Hi! My name is `Alexsandro`. I'm just a technology enthusiast. I love working wi
     align="center"
     alt="GitHub Stats"
     height="450px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&bg_color=010409&theme=radical&border_color=010409&layout=donut-vertical&cache_seconds=10" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexsandroocanha&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
     valign="top"
    />
    <br>
