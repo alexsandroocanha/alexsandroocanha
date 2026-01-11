@@ -61,7 +61,7 @@ Hi! My name is `Alexsandro`. I'm just a technology enthusiast. I love working wi
 <div align="center">
 <h3><strong>Stack</h3>
 <p>
-    <a href="..."><img src="https://skillicons.dev/icons?i=python,go,c,cpp&perline=7" alt="AWS"></a>
+    <a href="..."><img src="https://skillicons.dev/icons?i=python,c,cpp&perline=7" alt="AWS"></a>
 </p>
 </div>
 
