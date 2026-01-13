@@ -56,19 +56,6 @@ Hi! My name is `Alexsandro`. I'm just a technology enthusiast. I love working wi
 </p>
 </div>
 
----
-
-<div align="center">
-<h3><strong>Stack</h3>
-<p>
-    <a href="..."><img src="https://skillicons.dev/icons?i=python,c,cpp&perline=7" alt="AWS"></a>
-</p>
-</div>
-
-
-
-
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
