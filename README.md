@@ -44,7 +44,7 @@ Hi! My name is `Alexsandro`. I'm just a technology enthusiast. I love working wi
 <div align="center">
 <h3><strong>Stack &amp; Tools</strong></h3>
 <p>
-    <a href="..."><img src="https://skillicons.dev/icons?i=aws,terraform,docker,k8s,githubactions,powershell,bash,python,go,cs,&perline=5" alt="AWS"></a>
+    <a href="..."><img src="https://skillicons.dev/icons?i=aws,terraform,docker,k8s,githubactions,powershell,bash,python,go,cs&perline=5" alt="AWS"></a>
 </p>
 </div>
 
