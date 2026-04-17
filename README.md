@@ -21,8 +21,6 @@ Hi! My name is `Alexsandro`. I'm just a technology enthusiast. I love working wi
 
 <td width="40%" valign="top" align="center">
 
-<div align="center">
-
 ## Statistics
 <div align="center">
   <img 
@@ -33,7 +31,7 @@ Hi! My name is `Alexsandro`. I'm just a technology enthusiast. I love working wi
     height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&layout=compact&theme=react" 
   />
-</div>
+
 </div>
 </p>
 
