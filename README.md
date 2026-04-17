@@ -26,15 +26,15 @@ Hi! My name is `Alexsandro`. I'm just a technology enthusiast. I love working wi
 <img 
   align="center" 
   alt="GitHub Stats" 
-  height="450px" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexsandroocanha&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
-  valign="top" />
-<img 
-  align="center" 
-  alt="GitHub Stats" 
   height="700px" 
   width="700px"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&layout=compact&theme=react" 
+  valign="top" />
+  <img 
+  align="center" 
+  alt="GitHub Stats" 
+  height="450px" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexsandroocanha&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
   valign="top" />
 
 </div>
