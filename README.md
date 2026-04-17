@@ -6,23 +6,36 @@
 <tr>
 <td width="60%" valign="top">
 
-<div align="center">
+<div align="left">
     <h2><strong>About me</strong></h2>
 </div>
 
 Hi! My name is `Alexsandro`. I'm just a technology enthusiast. I love working with `network infrastructure`, servers,  `cloud infrastructure` and `cyber security`. I am currently pursuing the `CCNP DC` certification. If you'd like to chat or exchange ideas, contact me via email.
 
-
-
-
+<div align="left">
+    <h2><strong>Stack & Tool</strong></h2>
+</div>
+<div align="lefft">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,k8s,terraform,githubactions,jenkins,powershell,bash,python,go,cs&perline=7&size=60" />
+</div>
 </td>
-
-
 
 <td width="40%" valign="top" align="center">
 
 ## Statistics
-<img align="center" alt="GitHub Stats" height="450px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexsandroocanha&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" valign="top" /><img align="center" alt="GitHub Stats" height="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&layout=compact&theme=react" valign="top" />
+<img 
+  align="center" 
+  alt="GitHub Stats" 
+  height="450px" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexsandroocanha&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
+  valign="top" />
+<img 
+  align="center" 
+  alt="GitHub Stats" 
+  height="700px" 
+  width="700px"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&layout=compact&theme=react" 
+  valign="top" />
 
 </div>
 </p>
@@ -32,15 +45,6 @@ Hi! My name is `Alexsandro`. I'm just a technology enthusiast. I love working wi
 </table>
 
 <div align="center">
-<h3><strong>Stack &amp; Tools</strong></h3>
-<p>
-    <a href="..."><img src="https://skillicons.dev/icons?i=aws,terraform,docker,k8s,githubactions,powershell,bash,python,go,cs&perline=5" alt="AWS"></a>
-</p>
-</div>
-
-<div align="center">
-
-
 <p align="center">
   <a href="mailto:alexsandroocanha@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
@@ -48,8 +52,6 @@ Hi! My name is `Alexsandro`. I'm just a technology enthusiast. I love working wi
   <a href="https://www.linkedin.com/in/alexsandroocanharodrigues">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
   </a>
-
-
 </p>
 </div>
 
