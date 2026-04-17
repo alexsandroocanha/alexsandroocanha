@@ -24,16 +24,16 @@ Hi! My name is `Alexsandro`. I'm just a technology enthusiast. I love working wi
 <div align="center">
 
 ## Statistics
-
-   <img 
-    align="center"
-    alt="GitHub Stats"
-    height="450px"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexsandroocanha&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
-    valign="top"
-   />
-   <br>
-
+<div align="center">
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=alexsandroocanha&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&layout=compact&theme=react" 
+  />
+</div>
 </div>
 </p>
 
