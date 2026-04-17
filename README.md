@@ -23,20 +23,7 @@ Hi! My name is `Alexsandro`. I'm just a technology enthusiast. I love working wi
 <td width="40%" valign="top" align="center">
 
 ## Statistics
-<img 
-  align="center" 
-  alt="GitHub Stats" 
-  height="700px" 
-  width="700px"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&layout=compact&theme=react" 
-  valign="top" />
-  <img 
-  align="center" 
-  alt="GitHub Stats" 
-  height="450px" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexsandroocanha&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
-  valign="top" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&layout=pie&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 </p>
 
@@ -54,7 +41,6 @@ Hi! My name is `Alexsandro`. I'm just a technology enthusiast. I love working wi
   </a>
 </p>
 </div>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
