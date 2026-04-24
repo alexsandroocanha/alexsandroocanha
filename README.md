@@ -6,7 +6,7 @@
 <tr>
 <td width="60%" valign="top">
 
-<div align="left">
+<div align="center">
     <h2><strong>About me</strong></h2>
 </div>
 
