@@ -16,7 +16,7 @@ Hi! My name is `Alexsandro`. I'm just a technology enthusiast. I love working wi
     <h2><strong>Stack & Tool</strong></h2>
 </div>
 <div align="lefft">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,k8s,terraform,githubactions,jenkins,powershell,bash,python,go,cs&perline=7&size=60" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,k8s,terraform,githubactions,jenkins,bash,python,go,cs,dotnet,js,nodejs&perline=7&size=60" />
 </div>
 </td>
 
