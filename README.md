@@ -12,25 +12,14 @@
 
 Hi! My name is `Alexsandro`. I'm just a technology enthusiast. I love working with `network infrastructure`, servers,  `cloud infrastructure` and `cyber security`. I am currently pursuing the `CCNP DC` certification. If you'd like to chat or exchange ideas, contact me via email.
 
-<div align="left">
-    <h2><strong>Stack & Tool</strong></h2>
-</div>
-<div align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=aws,azure,docker,k8s,terraform,githubactions,jenkins,bash,python,go,cs,dotnet,js,nodejs&perline=7" 
-  />
-</div>
-<br>
 </td>
 
 <td width="40%" valign="top" align="center">
 
 ## Statistics
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&layout=donut&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
 </div>
 </p>
 
