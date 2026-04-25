@@ -1,16 +1,25 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Alexsandro%20Ocanha%20Rodrigues&fontSize=45&fontColor=fff&reversal=true&desc=DevOps%20Engineer%20%7C%20SRE&descAlignY=55&descSize=18&descSize=50&descAlignY=100&descAlign=0&fontAlignY=35"/>
-</div>
-
 <table>
 <tr>
 <td width="60%" valign="top">
 
-<div align="center">
-    <h2><strong>About me</strong></h2>
+<div align="left">
+    <h2><strong>Alexsandro Ocanha Rodrigues</strong></h2>
 </div>
+**DevOps-focused**, with a strong foundation in **infrastructure** and **networking**.
+I develop environments and solutions applying containerization, automation, and CI/CD practices.
 
-Hi! My name is `Alexsandro`. I'm just a technology enthusiast. I love working with `network infrastructure`, servers,  `cloud infrastructure` and `cyber security`. I am currently pursuing the `CCNP DC` certification. If you'd like to chat or exchange ideas, contact me via email.
+**Experience**
+
+**DevSecOps Intern @ Compass UOL** *(2025)*  
+Supported the development and maintenance of CI/CD pipelines, infrastructure automation using Infrastructure as Code (IaC), and the application of cloud security best practices, focusing on reliability and standardized deployment processes.
+
+**Goals**
+- AWS Certified Solutions Architect
+- AWS Certified DevOps Engineer Professional
+- Certified Kubernetes Adminstrator
+- Cisco Certified Network Associate
+
+<br>
 
 </td>
 
@@ -18,8 +27,11 @@ Hi! My name is `Alexsandro`. I'm just a technology enthusiast. I love working wi
 
 ## Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&layout=donut&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
+<a>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0&count_weight=1&theme=radical"  
+  />
+</a>
 </div>
 </p>
 
