@@ -5,6 +5,7 @@
 <div align="left">
     <h2><strong>Alexsandro Ocanha Rodrigues</strong></h2>
 </div>
+
 **DevOps-focused**, with a strong foundation in **infrastructure** and **networking**.
 I develop environments and solutions applying containerization, automation, and CI/CD practices.
 
