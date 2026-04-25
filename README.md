@@ -29,9 +29,10 @@ Supported the development and maintenance of CI/CD pipelines, infrastructure aut
 
 <a>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0&count_weight=1&theme=radical"  
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&layout=donut-vertical&theme=tokyonight"  
   />
 </a>
+
 </div>
 </p>
 
