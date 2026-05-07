@@ -24,20 +24,10 @@ Supported the development and maintenance of CI/CD pipelines, infrastructure aut
 
 </td>
 
-<td width="40%" valign="top" align="center">
-
-## Statistics
-
-<a>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandroocanha&layout=donut-vertical"  
-  />
-</a>
 
 </div>
 </p>
 
-</td>
 </tr>
 </table>
 
