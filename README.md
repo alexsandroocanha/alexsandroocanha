@@ -41,8 +41,3 @@ Supported the development and maintenance of CI/CD pipelines, infrastructure aut
   </a>
 </p>
 </div>
-
-
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-github-readme-stats.svg)
