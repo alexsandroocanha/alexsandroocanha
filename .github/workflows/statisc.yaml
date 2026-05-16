@@ -16,6 +16,8 @@ jobs:
         uses: teoxoy/profile-readme-stats@v3
         with:
           token: ${{ secrets.GH_TOKEN }}
+          template: ./TEMPLATE.md
+          readme: ./README.md
 
       - name: Commit README
         run: |
