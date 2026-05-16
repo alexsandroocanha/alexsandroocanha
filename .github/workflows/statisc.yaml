@@ -1,32 +1,23 @@
-name: Generate README
+name: Profile Readme Stats
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  publish:
+  stats:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Generate README.md
+      - name: Generate Stats
         uses: teoxoy/profile-readme-stats@v3
         with:
-          token: ${{ secrets.GH_TOKEN }}
-          template: ./TEMPLATE.md
-          readme: ./README.md
-
-      - name: Update README.md
-        run: |
-          if [[ "$(git status --porcelain)" != "" ]]; then
-            git config user.name github-actions[bot]
-            git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-            git add .
-            git commit -m "Update README"
-            git push
-          fi
+          token: ${{ secrets.GITHUB_TOKEN }}
