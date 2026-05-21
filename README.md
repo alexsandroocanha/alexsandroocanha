@@ -23,6 +23,7 @@
 </table>
 
 
+
 <div align="center">
     <p align="center">
       <a href="mailto:alexsandroocanha@gmail.com">
@@ -30,6 +31,9 @@
       </a>
       <a href="https://www.linkedin.com/in/alexsandroocanharodrigues">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
+      </a>
+      <a href="https://discord.gg/2Qs64yyYtr">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
       </a>
     </p>
 </div>
