@@ -4,7 +4,9 @@
             <h2>
                 <strong>Alexsandro Ocanha Rodrigues</strong>
             </h2>
-            <p>Hi, my name is <strong>Alexsandro</strong> and I'm <strong>DevOps engineer.</strong> I come from the computer networking field, and therefore have solid knowledge of Linux servers and network monitoring using Zabbix, Prometheus and Grafana. I'm obsessed with learning more and more, every time I see new technologies, I fall more in love with this field. 
+            <p>Hi, my name is <strong>Alexsandro</strong>, and I am a <strong>Full Stack Developer</strong> passionate about building scalable and reliable software solutions. My background in computer networking, infrastructure, and cloud technologies has given me a strong understanding of how applications operate in real-world environments.
+
+Throughout my journey, I have worked with web development, APIs, databases, and modern development practices using technologies such as Java, JavaScript, TypeScript, Angular, SQL, Docker, and Linux. My experience with infrastructure and cloud platforms also allows me to understand the complete software lifecycle, from development and deployment to monitoring and maintenance.
             </p>
             <h3><strong>2026 Goals</strong></h3>
             <ul>
