@@ -21,7 +21,7 @@ jobs:
           card: stats
           options: 'username=${{ github.repository_owner }}&show_icons=true'
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate top languages card
         uses: soulteary/github-readme-stats-action@v1.0.0
@@ -29,7 +29,7 @@ jobs:
           card: top-langs
           options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=6'
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate pin card
         uses: soulteary/github-readme-stats-action@v1.0.0
@@ -37,7 +37,7 @@ jobs:
           card: pin
           options: 'username=soulteary&repo=github-readme-stats'
           path: profile/pin-github-readme-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Commit cards
         run: |
