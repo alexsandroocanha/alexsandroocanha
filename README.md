@@ -4,7 +4,7 @@
             <h2>
                 <strong>Alexsandro Ocanha Rodrigues</strong>
             </h2>
-            <p>Hi! My name is `Alexsandro`. I'm just a technology enthusiast. I love working with `network infrastructure`, servers,  `cloud infrastructure` and `cyber security`. I am currently pursuing the `CCNP DC` certification. If you'd like to chat or exchange ideas, contact me via email.
+            <p>Hi! My name is Alexsandro. I'm just a technology enthusiast. I love working with network infrastructure, servers,  cloud infrastructure and cyber security. I am currently pursuing the CCNP DC certification. If you'd like to chat or exchange ideas, contact me via email.
             </p>
             <h2><strong>Experience</strong></h2>
             <h4><strong>DevSecOps Intern @ Compass UOL</strong></h4>
