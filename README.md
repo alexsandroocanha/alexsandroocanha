@@ -14,8 +14,8 @@
         </td>
         <td width="50%" valign="top">
             <h2><strong>Status</strong></h2>
-            <img src="profile/top-langs.svg" width="400" alt="descrição" />
             <img src="profile/stats.svg" width="400" alt="descrição" />
+            <img src="profile/top-langs.svg" width="400" alt="descrição" />
         </td>
     </tr>
 </table>
