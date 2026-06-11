@@ -1,19 +1,15 @@
 name: Update README cards
-
 on:
   schedule:
     - cron: "0 0 * * *" # Runs once daily at midnight
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v4
-
       - name: Generate stats card
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
@@ -21,7 +17,6 @@ jobs:
           options: 'username=${{ github.repository_owner }}&show_icons=true'
           path: profile/stats.svg
           token: ${{ secrets.STATS_TOKEN }}
-
       - name: Generate top languages card
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
@@ -29,7 +24,6 @@ jobs:
           options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=6'
           path: profile/top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
-
       - name: Generate pin card
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
@@ -37,7 +31,17 @@ jobs:
           options: 'username=soulteary&repo=github-readme-stats'
           path: profile/pin-github-readme-stats.svg
           token: ${{ secrets.STATS_TOKEN }}
-
+      - name: Apply dark theme
+        run: |
+          sed -i \
+            -e 's/fill="#fffefe"/fill="#0d1117"/g' \
+            -e 's/fill="#fff"/fill="#0d1117"/g' \
+            -e 's/stroke="#e4e2e2"/stroke="#30363d"/g' \
+            -e 's/fill: #2f80ed/fill: #58a6ff/g' \
+            -e 's/fill: #434d58/fill: #c9d1d9/g' \
+            -e 's/fill: #4c71f2/fill: #79c0ff/g' \
+            -e 's/fill: #586069/fill: #8b949e/g' \
+            profile/stats.svg profile/top-langs.svg
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
