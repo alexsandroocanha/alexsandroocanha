@@ -5,7 +5,9 @@
 <h2><strong>Alexsandro Ocanha Rodrigues</strong></h2>
 
 <p>
-Hi! My name is Alexsandro. I'm a technology enthusiast who enjoys working with network infrastructure, servers, cloud infrastructure, and cybersecurity. I am currently preparing for the CCNP Data Center certification. If you'd like to chat or exchange ideas, feel free to contact me by email.
+    
+Hi! I'm Alexsandro, an infrastructure enthusiast who becomes more passionate about technology every day. I enjoy solving complex problems, building reliable environments, and continuously learning new technologies. My goal is to work as a DevOps Engineer or Infrastructure Engineer specializing in Cloud or Data Center environments. I'm currently in the final stage of my Bachelor's degree (6th semester) and looking for new opportunities. Outside of work, you'll probably find me spending hours troubleshooting systems with a good cup of coffee by my side.
+
 </p>
 
 <details>
@@ -13,7 +15,7 @@ Hi! My name is Alexsandro. I'm a technology enthusiast who enjoys working with n
 
 <br>
 
-Olá! Meu nome é Alexsandro. Sou um entusiasta de tecnologia. Gosto de trabalhar com infraestrutura de redes, servidores, infraestrutura em nuvem e segurança cibernética. Atualmente estou me preparando para a certificação CCNP Data Center. Se quiser conversar ou trocar ideias, entre em contato comigo por e-mail.
+Olá! Me chamo Alexsandro. Sou um profissional apaixonado por infraestrutura e, a cada dia, gosto ainda mais do que faço. Gosto de resolver problemas, construir ambientes confiáveis e aprender novas tecnologias constantemente. Meu objetivo é atuar como Engenheiro DevOps ou Engenheiro de Infraestrutura, seja em ambientes Cloud ou Data Center. Atualmente estou no 6º período da graduação e em busca de novas oportunidades. Fora isso, provavelmente você vai me encontrar passando horas resolvendo problemas enquanto tomo uma boa xícara de café.
 
 </details>
 
@@ -24,10 +26,19 @@ Olá! Meu nome é Alexsandro. Sou um entusiasta de tecnologia. Gosto de trabalha
 
 <br>
 
-¡Hola! Mi nombre es Alexsandro. Soy un entusiasta de la tecnología. Me gusta trabajar con infraestructura de redes, servidores, infraestructura en la nube y ciberseguridad. Actualmente me estoy preparando para la certificación CCNP Data Center. Si te gustaría conversar o intercambiar ideas, no dudes en contactarme por correo electrónico.
+¡Hola! Me llamo Alexsandro. Soy un apasionado de la infraestructura y cada día disfruto más de lo que hago. Me gusta resolver problemas, construir entornos confiables y aprender nuevas tecnologías constantemente. Mi objetivo es trabajar como Ingeniero DevOps o Ingeniero de Infraestructura, ya sea en entornos Cloud o Data Center. Actualmente estoy cursando el sexto semestre de mi carrera y busco nuevas oportunidades. Fuera del trabajo, probablemente me encontrarás pasando horas resolviendo problemas acompañado de una buena taza de café.
 
 </details>
 
+## Roadmap from 2026
+
+- [x] AWS Certified Solutions Architect – Associate
+- [ ] Microsoft Certified: Azure Administrator Associate (AZ-104)
+- [ ] Certified Kubernetes Administrator (CKA)
+- [ ] Cisco Certified Network Associate (CCNA)
+- [ ] Cisco Certified Network Professional Data Center (CCNP Enterprise)
+
+<br>
 </td>
 
 <td width="45%" valign="top">
