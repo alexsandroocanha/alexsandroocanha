@@ -35,8 +35,6 @@ Olá! Me chamo Alexsandro. Sou um profissional apaixonado por infraestrutura e, 
 - [x] AWS Certified Solutions Architect – Associate
 - [ ] Microsoft Certified: Azure Administrator Associate (AZ-104)
 - [ ] Certified Kubernetes Administrator (CKA)
-- [ ] Cisco Certified Network Associate (CCNA)
-- [ ] Cisco Certified Network Professional Data Center (CCNP Enterprise)
 
 <br>
 </td>
