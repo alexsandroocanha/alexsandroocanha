@@ -10,26 +10,6 @@ Hi! I'm Alexsandro, an infrastructure enthusiast who becomes more passionate abo
 
 </p>
 
-<details>
-<summary>🇧🇷 Português</summary>
-
-<br>
-
-Olá! Me chamo Alexsandro. Sou um profissional apaixonado por infraestrutura e, a cada dia, gosto ainda mais do que faço. Gosto de resolver problemas, construir ambientes confiáveis e aprender novas tecnologias constantemente. Meu objetivo é atuar como Engenheiro DevOps ou Engenheiro de Infraestrutura, seja em ambientes Cloud ou Data Center. Atualmente estou no 6º período da graduação e em busca de novas oportunidades. Fora isso, provavelmente você vai me encontrar passando horas resolvendo problemas enquanto tomo uma boa xícara de café.
-
-</details>
-
-<br>
-
-<details>
-<summary>🇪🇸 Español</summary>
-
-<br>
-
-¡Hola! Me llamo Alexsandro. Soy un apasionado de la infraestructura y cada día disfruto más de lo que hago. Me gusta resolver problemas, construir entornos confiables y aprender nuevas tecnologías constantemente. Mi objetivo es trabajar como Ingeniero DevOps o Ingeniero de Infraestructura, ya sea en entornos Cloud o Data Center. Actualmente estoy cursando el sexto semestre de mi carrera y busco nuevas oportunidades. Fuera del trabajo, probablemente me encontrarás pasando horas resolviendo problemas acompañado de una buena taza de café.
-
-</details>
-
 ## Roadmap from 2026
 
 - [x] AWS Certified Solutions Architect – Associate
@@ -41,11 +21,17 @@ Olá! Me chamo Alexsandro. Sou um profissional apaixonado por infraestrutura e, 
 
 <td width="45%" valign="top">
 
-<h2><strong>GitHub Stats</strong></h2>
+<h2 align="center"><strong>GitHub Stats</strong></h2>
+<p align="center">
+    <img src="profile/top-langs.svg" width="400" alt="Most Used Languages" />
+</p>
+<br>
+<h2 align="center"><strong>Stack</strong></h2>
 
-<img src="profile/stats.svg" width="400" alt="GitHub Stats" />
-
-<img src="profile/top-langs.svg" width="400" alt="Most Used Languages" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,python,go,java,spring,terraform,docker,kubernetes,githubactions,prometheus,linux&perline=6" />
+</p>
+<br>
 
 </td>
     </tr>
