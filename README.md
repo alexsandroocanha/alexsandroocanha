@@ -48,7 +48,7 @@ Hi! I'm Alexsandro, an infrastructure enthusiast who becomes more passionate abo
 
 <br>
 
-<a href="0.0.0.0">
+<a href="http://0.0.0.0">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
 </a>
 
