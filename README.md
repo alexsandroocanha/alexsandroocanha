@@ -26,11 +26,6 @@ Hi! I'm Alexsandro, an infrastructure enthusiast who becomes more passionate abo
     <img src="profile/top-langs.svg" width="400" alt="Most Used Languages" />
 </p>
 <br>
-<h2 align="center"><strong>Stack</strong></h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,python,go,java,spring,terraform,docker,kubernetes,githubactions,prometheus,linux&perline=6" />
-</p>
 <br>
 
 </td>
@@ -50,5 +45,13 @@ Hi! I'm Alexsandro, an infrastructure enthusiast who becomes more passionate abo
 <a href="https://discord.gg/2Qs64yyYtr">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
+
+<br>
+
+<a href="0.0.0.0">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+</a>
+
+
 
 </div>
