@@ -26,7 +26,10 @@ Hi! I'm Alexsandro, a technology enthusiast passionate about software developmen
 <p align="center">
     <img src="profile/top-langs.svg" width="400" alt="Most Used Languages" />
 </p>
-<br>
+<h2 align="center"><strong>Stack</strong></h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,nodejs,python,django,postgres,git,linux,k8s,aws,azure,terraform&perline=6" />
+</p>
 <br>
 
 </td>
