@@ -6,7 +6,7 @@
 
 <p>
     
-Hi! I'm Alexsandro, an infrastructure enthusiast who becomes more passionate about technology every day. I enjoy solving complex problems, building reliable environments, and continuously learning new technologies. My goal is to work as a DevOps Engineer or Infrastructure Engineer specializing in Cloud or Data Center environments. I'm currently in the final stage of my Bachelor's degree (6th semester) and looking for new opportunities. Outside of work, you'll probably find me spending hours troubleshooting systems with a good cup of coffee by my side.
+Hi! I'm Alexsandro, a technology enthusiast passionate about software development and problem-solving. I enjoy building applications, exploring new technologies, and turning ideas into practical solutions. I'm currently focusing on Python and JavaScript, while expanding my knowledge of software engineering, APIs, databases, and cloud technologies. My goal is to grow as a Software Developer, combining my background in IT infrastructure and cloud computing with my passion for programming. I'm always looking for opportunities to learn, build meaningful projects, and improve my skills. Outside of coding, you'll probably find me exploring new technologies with a good cup of coffee by my side.
 
 </p>
 
@@ -15,6 +15,7 @@ Hi! I'm Alexsandro, an infrastructure enthusiast who becomes more passionate abo
 - [x] AWS Certified Solutions Architect – Associate
 - [ ] Microsoft Certified: Azure Administrator Associate (AZ-104)
 - [ ] Certified Kubernetes Administrator (CKA)
+- [ ] Cisco Certified Network Associate (CCNA)
 
 <br>
 </td>
