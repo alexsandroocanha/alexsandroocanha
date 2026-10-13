@@ -28,7 +28,7 @@ Hi! I'm Alexsandro, a technology enthusiast passionate about software developmen
 </p>
 <h2 align="center"><strong>Stack</strong></h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,go,django,react,angular,flask,fastapi,k8s,aws,azure,terraform,docker,githubactions,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,go,spring,react,angular,k8s,aws,azure,terraform,docker,githubactions,linux&perline=6" />
 </p>
 <br>
 
