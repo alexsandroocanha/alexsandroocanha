@@ -6,7 +6,11 @@
 
 <p>
     
-Hi! I'm Alexsandro, a technology enthusiast passionate about software development and problem-solving. I enjoy building applications, exploring new technologies, and turning ideas into practical solutions. I'm currently focusing on Python and JavaScript, while expanding my knowledge of software engineering, APIs, databases, and cloud technologies. My goal is to grow as a Software Developer, combining my background in IT infrastructure and cloud computing with my passion for programming. I'm always looking for opportunities to learn, build meaningful projects, and improve my skills. Outside of coding, you'll probably find me exploring new technologies with a good cup of coffee by my side.
+Hi! I'm Alexander, a technology enthusiast passionate about software development, problem-solving, and building practical solutions. I'm currently focusing on JavaScript, TypeScript, Node.js, React, Angular, and Java with Spring Boot, while expanding my knowledge of software engineering, APIs, databases, and cloud technologies.
+
+My goal is to grow as a Software Developer, combining my background in IT infrastructure and cloud computing with my passion for building reliable, scalable, and efficient applications. I'm always looking for opportunities to learn, develop meaningful projects, and continuously improve my technical skills.
+
+Outside of coding, you'll probably find me exploring new technologies, experimenting with ideas, and enjoying a good cup of coffee.
 
 </p>
 
