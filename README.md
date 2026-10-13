@@ -32,7 +32,7 @@ Outside of coding, you'll probably find me exploring new technologies, experimen
 </p>
 <h2 align="center"><strong>Stack</strong></h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,spring,react,angular,k8s,aws,azure,terraform,docker,githubactions&perline=6" />
+  <img src="https://skillicons.dev/icons?i=go,js,ts,react,angular,k8s,aws,azure,terraform,docker,githubactions&perline=6" />
 </p>
 <br>
 
