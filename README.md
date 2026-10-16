@@ -29,11 +29,13 @@ Outside of coding, I enjoy exploring new technologies, building personal project
     <img src="profile/top-langs.svg" width="400" alt="Most Used Languages" />
 </p>
 
+<br>
 <h2 align="center"><strong>Stack & Technologies</strong></h2>
 <p align="center">
     <img 
-        src="https://skillicons.dev/icons?i=js,ts,go,python,react,nodejs,django,fastapi,postgres,aws,terraform,githubactions&perline=4" 
+        src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,django,fastapi,postgres,mysql,aws,terraform,githubactions&perline=6" 
         alt="Stack & Technologies" 
+        width="375px"
     />
 </p>
 
