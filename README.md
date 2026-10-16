@@ -43,7 +43,7 @@ Outside of coding, I enjoy exploring new technologies, building personal project
 </table>
 
 
-<div align="left">
+<div align="right">
 
 ### Connect with me
 
@@ -55,7 +55,7 @@ Outside of coding, I enjoy exploring new technologies, building personal project
     <img src="https://skillicons.dev/icons?i=linkedin" width="35" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="YOUR_GITLAB_URL">
+<a href="https://gitlab.com/Alexsandroocanha">
     <img src="https://skillicons.dev/icons?i=gitlab" width="35" alt="GitLab" />
 </a>
 
