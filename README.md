@@ -5,21 +5,19 @@
 <h2><strong>Alexsandro Ocanha Rodrigues</strong></h2>
 
 <p>
-    
-Hi! I'm Alexander, a technology enthusiast passionate about software development, problem-solving, and building practical solutions. I'm currently focusing on JavaScript, TypeScript, Node.js, React, Angular, and Go, while expanding my knowledge of software engineering, APIs, databases, and cloud technologies.
+Hi! I'm Alexsandro, a software developer and technology enthusiast interested in backend development, APIs, cloud computing, and automation. I have hands-on experience with Go, Python, AWS, and Terraform, and I'm currently expanding my skills in JavaScript and TypeScript.
 
-My goal is to grow as a Software Developer, combining my background in IT infrastructure and cloud computing with my passion for building reliable, scalable, and efficient applications. I'm always looking for opportunities to learn, develop meaningful projects, and continuously improve my technical skills.
+My goal is to build reliable, scalable software by combining software engineering with my background in IT infrastructure and cloud technologies.
 
-Outside of coding, you'll probably find me exploring new technologies, experimenting with ideas, and enjoying a good cup of coffee.
-
+Outside of coding, I enjoy exploring new technologies, building personal projects, and drinking a good cup of coffee.
 </p>
 
 ## Roadmap from 2026
 
 - [x] AWS Certified Solutions Architect – Associate
+- [x] FinOps Certified Practitioner
 - [ ] Microsoft Certified: Azure Administrator Associate (AZ-104)
 - [ ] Certified Kubernetes Administrator (CKA)
-- [ ] Cisco Certified Network Associate (CCNA)
 
 <br>
 </td>
@@ -30,36 +28,36 @@ Outside of coding, you'll probably find me exploring new technologies, experimen
 <p align="center">
     <img src="profile/top-langs.svg" width="400" alt="Most Used Languages" />
 </p>
-<h2 align="center"><strong>Stack</strong></h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,k8s,docker,aws,azure,react,angular,django,mysql,terraform,githubactions&perline=5" />
-</p>
-<br>
 
+<h2 align="center"><strong>Stack & Technologies</strong></h2>
+<p align="center">
+    <img 
+        src="https://skillicons.dev/icons?i=js,ts,go,python,react,nodejs,django,fastapi,postgres,aws,terraform,githubactions&perline=4" 
+        alt="Stack & Technologies" 
+    />
+</p>
+
+<br>
 </td>
     </tr>
 </table>
 
-<div align="center">
+
+<div align="left">
+
+### Connect with me
 
 <a href="mailto:alexsandroocanha@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="35" alt="Email" />
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/alexsandroocanharodrigues">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35" alt="LinkedIn" />
 </a>
-
-<a href="https://discord.gg/2Qs64yyYtr">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+&nbsp;
+<a href="YOUR_GITLAB_URL">
+    <img src="https://skillicons.dev/icons?i=gitlab" width="35" alt="GitLab" />
 </a>
-
-<br>
-
-<a href="http://0.0.0.0">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-</a>
-
-
 
 </div>
+
