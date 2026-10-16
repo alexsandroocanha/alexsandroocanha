@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="162" viewBox="0 0 400 162">
+<rect x="0.5" y="0.5" width="399" height="161" rx="4.5" fill="#0d1117" stroke="#30363d"/>
+<text x="20" y="30" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="600" fill="#79c0ff">Top Languages (GitHub + GitLab)</text>
+<clipPath id="bar"><rect x="20" y="48" width="360" height="8" rx="4"/></clipPath>
+<g clip-path="url(#bar)">
+<rect x="20.00" y="48" width="101.68" height="8" fill="#8b949e"/>
+<rect x="121.68" y="48" width="84.68" height="8" fill="#00ADD8"/>
+<rect x="206.35" y="48" width="79.98" height="8" fill="#3572A5"/>
+<rect x="286.33" y="48" width="48.09" height="8" fill="#e34c26"/>
+<rect x="334.42" y="48" width="22.93" height="8" fill="#89e051"/>
+<rect x="357.35" y="48" width="22.65" height="8" fill="#563d7c"/>
+</g>
+<circle cx="25" cy="78" r="5" fill="#8b949e"/>
+<text x="36" y="82" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#c9d1d9">HCL <tspan fill="#8b949e">28.2%</tspan></text>
+<circle cx="205" cy="78" r="5" fill="#00ADD8"/>
+<text x="216" y="82" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#c9d1d9">Go <tspan fill="#8b949e">23.5%</tspan></text>
+<circle cx="25" cy="102" r="5" fill="#3572A5"/>
+<text x="36" y="106" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#c9d1d9">Python <tspan fill="#8b949e">22.2%</tspan></text>
+<circle cx="205" cy="102" r="5" fill="#e34c26"/>
+<text x="216" y="106" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#c9d1d9">HTML <tspan fill="#8b949e">13.4%</tspan></text>
+<circle cx="25" cy="126" r="5" fill="#89e051"/>
+<text x="36" y="130" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#c9d1d9">Shell <tspan fill="#8b949e">6.4%</tspan></text>
+<circle cx="205" cy="126" r="5" fill="#563d7c"/>
+<text x="216" y="130" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#c9d1d9">CSS <tspan fill="#8b949e">6.3%</tspan></text>
+</svg>
