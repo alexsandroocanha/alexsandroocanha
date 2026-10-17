@@ -26,7 +26,7 @@ Outside of coding, I enjoy exploring new technologies, building personal project
 
 <h2 align="center"><strong>GitHub Stats</strong></h2>
 <p align="center">
-    <img src="profile/top-langs.svg" width="400" alt="Most Used Languages" />
+    <img src="profile/top-langs-combined.svg" width="400" alt="Most Used Languages" />
 </p>
 
 <br>
