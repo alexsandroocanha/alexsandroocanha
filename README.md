@@ -5,7 +5,7 @@
 <h2><strong>Alexsandro Ocanha Rodrigues</strong></h2>
 
 <p>
-Hi! I'm Alexsandro, a software developer and technology enthusiast interested in backend development, APIs, cloud computing, and automation. I have hands-on experience with Go, Python, AWS, and Terraform, and I'm currently expanding my skills in JavaScript and TypeScript.
+Hi! I'm Alexsandro, a software developer and technology enthusiast interested in backend development, APIs, cloud computing, and automation. I have hands-on experience with java, AWS, and Terraform, and I'm currently expanding my skills in JavaScript and TypeScript.
 
 My goal is to build reliable, scalable software by combining software engineering with my background in IT infrastructure and cloud technologies.
 
@@ -33,7 +33,7 @@ Outside of coding, I enjoy exploring new technologies, building personal project
 <h2 align="center"><strong>Stack & Technologies</strong></h2>
 <p align="center">
     <img 
-        src="https://skillicons.dev/icons?i=js,ts,python,react,angular,nodejs,django,fastapi,postgres,mysql,aws,terraform,githubactions&perline=6" 
+        src="https://skillicons.dev/icons?i=js,ts,java,react,angular,nodejs,spring,postgres,mysql,aws,terraform,githubactions&perline=6" 
         alt="Stack & Technologies" 
         width="375px"
     />
