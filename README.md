@@ -33,7 +33,7 @@ Outside of coding, I enjoy exploring new technologies, building personal project
 <h2 align="center"><strong>Stack & Technologies</strong></h2>
 <p align="center">
     <img 
-        src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,django,fastapi,postgres,mysql,aws,terraform,githubactions&perline=6" 
+        src="https://skillicons.dev/icons?i=js,ts,python,react,angular,nodejs,django,fastapi,postgres,mysql,aws,terraform,githubactions&perline=6" 
         alt="Stack & Technologies" 
         width="375px"
     />
