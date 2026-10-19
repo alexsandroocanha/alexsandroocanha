@@ -3,23 +3,23 @@
 <text x="20" y="30" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="600" fill="#58a6ff">Top Languages (GitHub + GitLab)</text>
 <defs><clipPath id="bar"><rect x="20" y="48" width="360" height="8" rx="4"/></clipPath></defs>
 <g clip-path="url(#bar)">
-<rect x="20.000" y="48" width="137.813" height="8" fill="#3178c6"/>
-<rect x="157.813" y="48" width="115.068" height="8" fill="#3572A5"/>
-<rect x="272.881" y="48" width="48.786" height="8" fill="#563d7c"/>
-<rect x="321.667" y="48" width="24.579" height="8" fill="#844FBA"/>
-<rect x="346.246" y="48" width="20.470" height="8" fill="#00ADD8"/>
-<rect x="366.715" y="48" width="13.285" height="8" fill="#e34c26"/>
+<rect x="20.000" y="48" width="274.385" height="8" fill="#b07219"/>
+<rect x="294.385" y="48" width="34.030" height="8" fill="#3178c6"/>
+<rect x="328.415" y="48" width="28.414" height="8" fill="#3572A5"/>
+<rect x="356.829" y="48" width="12.047" height="8" fill="#563d7c"/>
+<rect x="368.876" y="48" width="6.069" height="8" fill="#844FBA"/>
+<rect x="374.945" y="48" width="5.055" height="8" fill="#00ADD8"/>
 </g>
-<circle cx="25" cy="86" r="5" fill="#3178c6"/>
-<text x="36" y="90" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#c9d1d9">TypeScript <tspan fill="#8b949e">38.3%</tspan></text>
-<circle cx="25" cy="110" r="5" fill="#3572A5"/>
-<text x="36" y="114" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#c9d1d9">Python <tspan fill="#8b949e">32.0%</tspan></text>
-<circle cx="25" cy="134" r="5" fill="#563d7c"/>
-<text x="36" y="138" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#c9d1d9">CSS <tspan fill="#8b949e">13.6%</tspan></text>
-<circle cx="205" cy="86" r="5" fill="#844FBA"/>
-<text x="216" y="90" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#c9d1d9">HCL <tspan fill="#8b949e">6.8%</tspan></text>
-<circle cx="205" cy="110" r="5" fill="#00ADD8"/>
-<text x="216" y="114" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#c9d1d9">Go <tspan fill="#8b949e">5.7%</tspan></text>
-<circle cx="205" cy="134" r="5" fill="#e34c26"/>
-<text x="216" y="138" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#c9d1d9">HTML <tspan fill="#8b949e">3.7%</tspan></text>
+<circle cx="25" cy="86" r="5" fill="#b07219"/>
+<text x="36" y="90" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#c9d1d9">Java <tspan fill="#8b949e">76.2%</tspan></text>
+<circle cx="25" cy="110" r="5" fill="#3178c6"/>
+<text x="36" y="114" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#c9d1d9">TypeScript <tspan fill="#8b949e">9.5%</tspan></text>
+<circle cx="25" cy="134" r="5" fill="#3572A5"/>
+<text x="36" y="138" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#c9d1d9">Python <tspan fill="#8b949e">7.9%</tspan></text>
+<circle cx="205" cy="86" r="5" fill="#563d7c"/>
+<text x="216" y="90" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#c9d1d9">CSS <tspan fill="#8b949e">3.3%</tspan></text>
+<circle cx="205" cy="110" r="5" fill="#844FBA"/>
+<text x="216" y="114" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#c9d1d9">HCL <tspan fill="#8b949e">1.7%</tspan></text>
+<circle cx="205" cy="134" r="5" fill="#00ADD8"/>
+<text x="216" y="138" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#c9d1d9">Go <tspan fill="#8b949e">1.4%</tspan></text>
 </svg>
